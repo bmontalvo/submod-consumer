@@ -1,2 +1,2 @@
 #Submodule Consumer
-This is v 1.0
+This is v 1.1

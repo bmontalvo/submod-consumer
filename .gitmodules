@@ -1,4 +1,4 @@
 [submodule "submod-test"]
 	path = submod-test
 	url = git@github.com:bmontalvo/submod-test.git
-  branch = master
+	branch = master
